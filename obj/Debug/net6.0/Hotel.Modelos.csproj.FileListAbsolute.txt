@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.AssemblyInfo.cs
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\bin\Debug\net6.0\Hotel.Modelos.deps.json
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\bin\Debug\net6.0\Hotel.Modelos.dll
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\bin\Debug\net6.0\Hotel.Modelos.pdb
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.dll
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\refint\Hotel.Modelos.dll
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\Hotel.Modelos.pdb
+C:\Users\HP\Downloads\Plantilla_Proyecto_Hotel\Hotel.Modelos\obj\Debug\net6.0\ref\Hotel.Modelos.dll
